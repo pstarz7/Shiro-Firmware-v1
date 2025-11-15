@@ -1,4 +1,4 @@
-## Shiro Firmware version-1  
+## Shiro Firmware version-1 (BETA)
 
 # Shiro - Your ESP32 Desk Pet 🤖
 
