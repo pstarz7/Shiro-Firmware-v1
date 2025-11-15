@@ -60,6 +60,10 @@ This is the most important part! You have to plug the right wire into the right 
 | `+` (Positive) | → | **D25** |
 | `-` (Negative) | → | **GND** |
 
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
 **⭐ Super Important Note!**
 Everything must share the same "Ground." This means the `GND` pin from the ESP32, the `GND` from the OLED, the `GND` from the TTP223, and the `-` pin from the Buzzer must all be connected together.
 
