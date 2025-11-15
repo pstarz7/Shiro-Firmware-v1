@@ -61,7 +61,7 @@ This is the most important part! You have to plug the right wire into the right 
 | `-` (Negative) | → | **GND** |
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](SHIRO - robot diagram.png)
 
 
 **⭐ Super Important Note!**
