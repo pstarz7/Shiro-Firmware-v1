@@ -8,9 +8,8 @@ I built this project to learn about electronics and coding. I had some basic kno
 
 This is my tiny step to making a real robot pet, and I'm sharing the code so you can build one, too!
 
-| Shiro's Face | Time Screen | Weather Screen | Navigation | Find Phone |
-| :---: | :---: | :---: | :---: | :---: |
-| *(Add a picture of your Shiro's animation here)* | ![Time Screen UI](https://i.imgur.com/g8u5U4G.png) | ![Weather Screen UI](https://i.imgur.com/eQ9Q3cT.png) | ![Navigation Screen UI](https://i.imgur.com/vHq4R7F.png) | *(Add a picture of your "Find Phone" screen here)* |
+![App Screenshot](https://github.com/pstarz7/Shiro-Firmware-v1/blob/main/last-img.png?raw=true)
+
 
 ## What Can Shiro Do? (Features)
 
