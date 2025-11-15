@@ -63,7 +63,7 @@ This is the most important part! You have to plug the right wire into the right 
 
 ## Diagram
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/pstarz7/Shiro-Firmware-v1/blob/main/SHIRO%20-%20robot%20diagram.png?raw=true])
+![App Screenshot]([https://github.com/pstarz7/Shiro-Firmware-v1/blob/main/SHIRO%20-%20robot%20diagram.png?raw=true])
 
 
 **⭐ Super Important Note!**
