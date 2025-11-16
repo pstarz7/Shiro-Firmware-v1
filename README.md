@@ -1,6 +1,6 @@
 ## Shiro Firmware version-1 (BETA)
 
-# Shiro - Your ESP32 Desk Pet 🤖
+# SHIRO - Your ESP32 Desk Pet 🤖
 
 Hello! This is the firmware (the code) for Shiro, a little robot friend that lives on your desk.
 
