@@ -8,6 +8,7 @@ I built this project to learn about electronics and coding. I had some basic kno
 
 This is my tiny step to making a real robot pet, and I'm sharing the code so you can build one, too!
 
+![App Screenshot](https://github.com/pstarz7/Shiro-Firmware-v1/blob/main/shiro%20with%20me.jpg?raw=true)
 ![App Screenshot](https://github.com/pstarz7/Shiro-Firmware-v1/blob/main/last-img.png?raw=true)
 
 
